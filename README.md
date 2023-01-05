@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Russmar14
-- 👀 I’m interested in studying linguistics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Russell Marvin
+- 👀 I’m interested in linguistics, basketball and statistical programming
+- 🌱 I’m currently learning python and R
+- Reach me at marvinru@mail.gvsu.edu
 
-<!---
-Russmar14/Russmar14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
